@@ -4,6 +4,11 @@
 - https://github.com/SmallzooDev/nvimConfig 이 레포와 같이 작업중입니다.
 - 개인적인 고민들이 많은데, 글로 잘 담아보고싶습니다
 
+## TODO 
+- 댓글 utterance 작업
+- og image, favicon 추가하기
+- githubPages 배포
+
 ## 글 작성하기
 
 ### 새로운 카테고리 만들기

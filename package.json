@@ -14,10 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/smallzoodev/smallzoodev.github.io.git"
   },
-  "author": "John Grib",
+  "author": "Smallzoo Dev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/smallzoodev/johngrib.github.io/issues"
+    "url": "https://github.com/SmallzooDev/SmallzooDev.github.io/issues"
   },
-  "homepage": "https://github.com/smallzoodev/johngrib.github.io#readme"
+  "homepage": "https://github.com/SmallzooDev/SmallzooDev.github.io#readme"
 }

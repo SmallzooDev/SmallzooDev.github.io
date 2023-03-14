@@ -50,9 +50,9 @@ google_analytics:
 google_adsense:
   client: SAMPLE-VALUE
 
-blame: "https://github.com/SmallzooDev/johngrib.github.io/blame/master/_wiki"
-edit: "https://github.com/SmallzooDev/johngrib.github.io/edit/master/_wiki"
-issue: "https://github.com/SmallzooDev/johngrib.github.io/issues/new"
+blame: "https://github.com/SmallzooDev/SmallzooDev.github.io/blame/master/_wiki"
+edit: "https://github.com/SmallzooDev/SmallzooDev.github.io/edit/master/_wiki"
+issue: "https://github.com/SmallzooDev/SmallzooDev.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
