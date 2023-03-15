@@ -4,7 +4,7 @@ title   : wiki
 toc     : true
 public  : true
 comment : false
-updated : 2022-12-07 23:01:03 +0900
+updated : 2023-03-15 19:47:26 +0900
 regenerate: true
 ---
 
@@ -12,6 +12,7 @@ regenerate: true
 
 * [[mathjax-latex]]
 
+* 여기에 글을 작성하면 [[이제부터]]!
 
 ---
 
