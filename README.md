@@ -1,8 +1,6 @@
 # Vimwiki + Jekyll + Github.io
 
-- vimwiki를 통해 obsidian과 블로그를 대체 할 수 있다는 생각에 열심히 뚝딱뚝딱 만드는 중 입니다.
-- https://github.com/SmallzooDev/nvimConfig 이 레포와 같이 작업중입니다.
-- 개인적인 고민들이 많은데, 글로 잘 담아보고싶습니다
+
 
 ## TODO 
 - 스크립트 에러들 확인하고 픽스하기
